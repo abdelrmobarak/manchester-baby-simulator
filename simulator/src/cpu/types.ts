@@ -6,7 +6,7 @@ export enum Op {
     JMP = 0,
     JRP = 1,
     LDN = 2,
-    STOP = 3,
+    STO = 3,
     SUB = 4,
     CMP = 5,
     STP = 6,
